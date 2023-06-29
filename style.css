@@ -3,22 +3,6 @@
     height: 80px !important;
     background-color: white !important;
 }
-.navbar-brand{
-    color: black !important;
-    font-weight: bold;
-}
-.nav-link:hover{
-    color: #7AB730 !important;
-    transition: 0,3s;
-}
-#navbarNavAltMarkup{
-    display: flex !important;
-    justify-content: flex-end !important;
-}
-.nav-link{
-    color: black !important;
-    font-weight: bold;
-}
 #principal{
     background-image: linear-gradient( rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(img/hero.jpg);
     background-size: cover;
@@ -56,7 +40,7 @@
     font-weight: bold !important;
 }
 .card-title{
-    color: #7AB730 !important;
+    color: #3081b7 !important;
     font-weight: bold;
 }
 .title-patita{
@@ -84,7 +68,7 @@
     background-color: aliceblue !important;
 }
 .carousel-control-prev-icon{
-    color: #7AB730 !important;
+    color: #3081b7 !important;
 }
 /*SECTION 3*/
 #part3{
@@ -160,7 +144,7 @@
 }
 .card-title a{
     text-decoration: none !important;
-    color: #7AB730 !important;
+    color: #3081b7 !important;
 }
 .card-img-top{
     width: 250px;
@@ -212,7 +196,7 @@
     align-items: center;
 }
 .text_litle a:hover{
-    color: #7AB730;
+    color: #3081b7;
 }
 #ca_foo{
     display: flex;
@@ -223,7 +207,7 @@
     align-items: center;
 }
 .foo h3{
-    color: #7AB730;
+    color: #3081b7;
 }
 .foo p{
     color: white !important;
@@ -237,7 +221,7 @@
     color: aliceblue;
 }
 .linkes_rapido ul li a:hover{
-    color: #7AB730;
+    color: #3081b7;
 }
 .linkes_rapido ul li{
     margin-bottom: 10px;
@@ -247,7 +231,7 @@
     padding-bottom: 0.5rem;
 }
 .img_fo{
-    border: 1px solid #7AB730;
+    border: 1px solid #3081b7;
     padding: 5px;
     margin-right: 8px;
 }
@@ -257,14 +241,14 @@
     align-items: center;
 }
 #gma_form{
-    border: 1px solid #7AB730;
+    border: 1px solid #3081b7;
     width: 290px;
     height: 50px;
     padding: 0 16px;
 }
 #button_form{
-    background-color: #7AB730;
-    border: 1px solid #7AB730;
+    background-color: #3081b7;
+    border: 1px solid #3081b7;
     max-width: 100%;
     height: 50px;
     color: #e5e5e5;
